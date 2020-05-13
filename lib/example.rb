@@ -4,3 +4,5 @@ phrase = "Hello World!"
 def greeting
   puts phrase
 end
+
+greeting
