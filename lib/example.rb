@@ -2,7 +2,7 @@
 
 phrase = "Hello World!"
 def greeting
-  puts phrase
+  puts "Hello World!"
 end
 
 greeting
